@@ -1,3 +1,7 @@
+<img src="./image/Blue & White Modern Business Facebook Cover.png" />
+
+
+
 <h1>Hi 👋, I'm Web developer and </h1>
 <p>I'm a passionate developer who loves building web apps, tools, and experimenting with new technologies.</p>
 <h2>🚀 Languages and Tools I Use</h2>

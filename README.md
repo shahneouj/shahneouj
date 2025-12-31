@@ -1,4 +1,4 @@
-<img src="./image/Blue & White Modern Business Facebook Cover.png" />
+<img  style="border-radius: 50%; object-fit: cover;" src="./image/Blue & White Modern Business Facebook Cover.png" />
 
 
 

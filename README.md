@@ -40,9 +40,8 @@ Currently, I’m focused on improving performance, scalability, and user experie
 ---
 
 ## 🌐 Social & Professional Links
-- 🐙 GitHub: https://github.com/your-username  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- 🐦 Twitter (X): https://twitter.com/your-handle  
+- 🐙 GitHub: https://github.com/shahneouj/shahneouj  
+- 💼 LinkedIn: https://www.linkedin.com/in/shah-neouj-aa6514276/   
 
 ---
 
